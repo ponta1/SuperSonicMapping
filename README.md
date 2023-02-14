@@ -9,3 +9,6 @@
 ### PC側(Python)
   SuperSonicMappingPy/
 
+詳細はこちら
+https://blog.studiok-i.net/2541.html
+
