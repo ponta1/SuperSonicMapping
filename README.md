@@ -3,7 +3,7 @@
 
 ## ファイル構成
 
-### Arduino側(Raspberry Pi Pico)
+### Raspberry Pi Pico側(Arduino)
   SuperSonicMapping/
 
 ### PC側(Python)
